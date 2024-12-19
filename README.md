@@ -18,3 +18,10 @@ Consume and aggregate student data for the past 4 weeks and predict the next 2 w
 Generate a dependency graph from input cells. Parse formulae into ASTs and perform topological sort. 
 <br /><br />
 ![Dependency Graph](.output/dependency_graph.png)
+
+<br />
+
+4. [Simple Pathfinder](simple_pathfinder/main.py)<br/>
+Simple pathfinding (mimic) robot, allowing movement only up/down/left/right with awareness using the Manhattan Distance Heuristic and A* Search Algorithm.
+<br /><br />
+![Simple Pathfinder](.output/simple_pathfinder.gif)
