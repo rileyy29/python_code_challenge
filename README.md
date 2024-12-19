@@ -11,3 +11,10 @@ Consume locations and define the best route from the start.<br /><br />
 Consume and aggregate student data for the past 4 weeks and predict the next 2 weeks.
 <br /><br />
 ![Predict Average Student Attendance](.output/predict_average_student_attendances.png)
+
+<br />
+
+3. [Dependency Graph](dependency_graph/main.py)<br/>
+Generate a dependency graph from input cells. Parse formulae into ASTs and perform topological sort. 
+<br /><br />
+![Dependency Graph](.output/dependency_graph.png)

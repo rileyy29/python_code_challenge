@@ -1,0 +1,32 @@
+{
+    "A1": {
+        "value": 10
+    },
+    "A2": {
+        "value": 20
+    },
+    "B1": {
+        "formula": "A1 + A2"
+    },
+    "B2": {
+        "formula": "A1 * 2"
+    },
+    "C1": {
+        "formula": "B1 + B2"
+    },
+    "C2": {
+        "formula": "B1 - A2"
+    },
+    "D1": {
+        "formula": "C1 / 2"
+    },
+    "D2": {
+        "formula": "C2 + A1"
+    },
+    "E1": {
+        "formula": "D1 * D2"
+    },
+    "E2": {
+        "formula": "E1 + 100"
+    }
+}
